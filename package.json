@@ -26,10 +26,8 @@
   "dependencies": {
     "filter-obj": "^2.0.0",
     "just-camel-case": "^4.0.2",
-    "just-snake-case": "^1.1.0",
-    "lob": "^6.0.5",
+    "lob-check": "~1.0.0",
     "map-obj": "^3.1.0",
-    "md5-hex": "^3.0.0",
     "mri": "^1.1.4"
   },
   "devDependencies": {

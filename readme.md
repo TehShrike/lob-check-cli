@@ -22,3 +22,7 @@ You'll need to create the `from` address and `bank_account` manually in the [Lob
 ```
 lob-check --adr-name="Accelerando Coffee House" --adr-address-line1="7023 Cass Street" --adr-address-city="Omaha" --adr-address-state="NE" --adr-address-zip="68132" --check-from="adr_2aa6e965740a9613" --check-bank-account="bank_647a2fce6ff7148" --check-amount=12.34
 ```
+
+# License
+
+[WTFPL](https://wtfpl2.com)

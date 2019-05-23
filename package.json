@@ -1,0 +1,39 @@
+{
+  "name": "lob-check-cli",
+  "version": "1.0.0",
+  "description": "A CLI for sending checks",
+  "bin": {
+    "lob-check": "index.js"
+  },
+  "scripts": {
+    "test": "node test.js | tap-color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/lob-check-cli.git"
+  },
+  "keywords": [
+    "lob",
+    "cli",
+    "check"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/lob-check-cli/issues"
+  },
+  "homepage": "https://github.com/TehShrike/lob-check-cli#readme",
+  "dependencies": {
+    "filter-obj": "^2.0.0",
+    "just-camel-case": "^4.0.2",
+    "just-snake-case": "^1.1.0",
+    "lob": "^6.0.5",
+    "map-obj": "^3.1.0",
+    "md5-hex": "^3.0.0",
+    "mri": "^1.1.4"
+  },
+  "devDependencies": {
+    "tap-color": "^1.1.0",
+    "zora": "^3.0.1"
+  }
+}
